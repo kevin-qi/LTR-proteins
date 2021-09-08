@@ -61,7 +61,7 @@ paramz==0.9.5
 parso==0.3.4
 phik==0.9.8
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==8.3.2
 plotly==4.1.1
 pluggy==0.13.0
 prometheus-client==0.6.0
