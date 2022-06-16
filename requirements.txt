@@ -49,7 +49,7 @@ mkl-service==2.0.2
 more-itertools==7.2.0
 nbconvert==5.4.1
 nbformat==4.4.0
-notebook==5.7.8
+notebook==6.4.12
 numba==0.46.0
 numpy==1.16.2
 olefile==0.46
